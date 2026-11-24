@@ -15,3 +15,9 @@ A one-line pickup line from a vending machine that turns the stuck snack into a 
 ```
 node main.ts
 ```
+
+## Why it works
+
+- "I'd drop everything for you" is a stock romantic line, said literally by a machine whose job is dropping things.
+- "Halfway" flips it into the most universal vending pain: the snack stuck on the coil.
+- The ending turns that annoyance into the machine's plan — it dangles on purpose so you'll hug it and shake.
